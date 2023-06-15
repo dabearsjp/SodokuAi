@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SodokuAi", "SodokuAi.csproj", "{A9639D8A-8E29-4665-9EFB-33D1E02A2205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9639D8A-8E29-4665-9EFB-33D1E02A2205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9639D8A-8E29-4665-9EFB-33D1E02A2205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9639D8A-8E29-4665-9EFB-33D1E02A2205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9639D8A-8E29-4665-9EFB-33D1E02A2205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E03775B-12AD-4193-BFC3-6F3C50ADBABA}
+	EndGlobalSection
+EndGlobal
